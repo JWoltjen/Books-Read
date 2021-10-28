@@ -11,7 +11,7 @@
 
   -Material UI
   
-     *An opinionated component-based library for react that favors in-line styling over traditional cascading style sheet rules.
+     An opinionated component-based library for react that favors in-line styling over traditional cascading style sheet rules.
   
   -React
   

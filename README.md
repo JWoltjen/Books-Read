@@ -1,7 +1,7 @@
 
 <h1 align="center">
   Books Read
-  <a href="https://imgur.com/a/8FBF0BC">
+  ![screen](https://imgur.com/a/8FBF0BC)
 </h1>
 
 <h4 align="center">A responsive full-stack application built with Mongoose, Express, React, and Node.</h4>

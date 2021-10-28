@@ -18,6 +18,8 @@
   -MongoDB
   
   -React-Redux
+  
+  -SVGBackgrounds
 
 ## Lessons Learned
 

@@ -9,6 +9,12 @@
 
 ## What technologies does this project use? 
 
+  -Material UI
+  -React
+  -Express
+  -MongoDB
+  -React-Redux
+
 ## Lessons Learned
 
 
